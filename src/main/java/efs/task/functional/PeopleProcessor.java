@@ -1,6 +1,7 @@
 package efs.task.functional;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 class PeopleProcessor {
 
